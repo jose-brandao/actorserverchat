@@ -1,4 +1,1 @@
-
-
-gradle run -Dmain=<className>
-e.g.: gradle run -Dmain=Hello
+gradle run -Dmain=ActorChatServer
